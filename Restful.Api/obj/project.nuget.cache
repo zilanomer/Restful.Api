@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3gq7e9EiGeAAWwR19d3I1BTYYSvGUwuZ9PtCwX5f57nrU6Lk42wr9+CPoSHyQjrhbxeCEETFwO5Y133LyH+Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zilan.omer\\Desktop\\Z\\Cohort\\Restful.Api\\Restful.Api\\Restful.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.20\\microsoft.aspnetcore.jsonpatch.7.0.20.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.20\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.20.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\zilan.omer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
