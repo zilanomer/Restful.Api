@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Restful.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d89ab952955fd1ca9fe0849a3729eff3bffc6a2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Restful.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Restful.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -797,11 +797,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zilan.omer\\Desktop\\Z\\Cohort\\Restful.Api\\Restful.Api\\Restful.Api.csproj",
+      "projectUniqueName": "C:\\Users\\zilan.omer\\Desktop\\Z\\Cohort\\Cohort-Odev1\\Restful.Api\\Restful.Api.csproj",
       "projectName": "Restful.Api",
-      "projectPath": "C:\\Users\\zilan.omer\\Desktop\\Z\\Cohort\\Restful.Api\\Restful.Api\\Restful.Api.csproj",
+      "projectPath": "C:\\Users\\zilan.omer\\Desktop\\Z\\Cohort\\Cohort-Odev1\\Restful.Api\\Restful.Api.csproj",
       "packagesPath": "C:\\Users\\zilan.omer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zilan.omer\\Desktop\\Z\\Cohort\\Restful.Api\\Restful.Api\\obj\\",
+      "outputPath": "C:\\Users\\zilan.omer\\Desktop\\Z\\Cohort\\Cohort-Odev1\\Restful.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
